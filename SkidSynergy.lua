@@ -1,4 +1,4 @@
- loadstring(game:HttpGet("https://raw.githubusercontent.com/Msunehub/None/main/Notifybounty.lua"))()
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/Danh25022011/-anhNo1/refs/heads/main/SkidSynergy.lua"))()
 ---------------------------------------------
 repeat task.wait() until game:IsLoaded()
 repeat task.wait() until game.Players
